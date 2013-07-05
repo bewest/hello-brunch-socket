@@ -24,7 +24,10 @@
     "uglify-js-brunch": ">= 1.0 < 1.6",
     "clean-css-brunch": ">= 1.0 < 1.6",
     "auto-reload-brunch": "> 1.0 < 1.5",
-    "emblem-brunch": "~0.1.1"
+    "emblem-brunch": "~0.1.1",
+    "ecstatic": "~0.4.5",
+    "shoe": "0.0.11",
+    "event-stream": "~3.0.15"
   },
   "devDependencies": {
     "chai": "1.2.0",
